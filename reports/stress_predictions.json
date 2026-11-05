@@ -1,0 +1,6146 @@
+[
+  {
+    "row": 58,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 135,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.5623479870614568,
+    "damaged_probability": 0.32320002790982366,
+    "flagged": true
+  },
+  {
+    "row": 418,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.014938560216355522,
+    "damaged_probability": 0.11920443561068561,
+    "flagged": true
+  },
+  {
+    "row": 420,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.08379581049174634,
+    "damaged_probability": 0.3511127370042812,
+    "flagged": true
+  },
+  {
+    "row": 772,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.007589285714285714,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 858,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.011979166666666666,
+    "damaged_probability": 0.037200097356347356,
+    "flagged": true
+  },
+  {
+    "row": 991,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 1071,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5803075875146905,
+    "damaged_probability": 0.29679670285812537,
+    "flagged": true
+  },
+  {
+    "row": 1108,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5368188385985871,
+    "damaged_probability": 0.27470823544376793,
+    "flagged": true
+  },
+  {
+    "row": 1130,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7366078931651737,
+    "damaged_probability": 0.2527104261479261,
+    "flagged": true
+  },
+  {
+    "row": 1226,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9768581194810588,
+    "damaged_probability": 0.20288214219739953,
+    "flagged": true
+  },
+  {
+    "row": 1271,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.06335225946439181,
+    "damaged_probability": 0.22437625436246755,
+    "flagged": true
+  },
+  {
+    "row": 1917,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9252078968246873,
+    "damaged_probability": 0.4389288146238974,
+    "flagged": true
+  },
+  {
+    "row": 1951,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.07310088210615663,
+    "damaged_probability": 0.1846022927599963,
+    "flagged": true
+  },
+  {
+    "row": 2215,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.06449970556505896,
+    "damaged_probability": 0.0775831228956229,
+    "flagged": true
+  },
+  {
+    "row": 2273,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8313184051580099,
+    "damaged_probability": 0.30989675896877067,
+    "flagged": true
+  },
+  {
+    "row": 2536,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9692704034416054,
+    "damaged_probability": 0.3213067773357304,
+    "flagged": true
+  },
+  {
+    "row": 2539,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.11424099627224628,
+    "damaged_probability": 0.1090969215969216,
+    "flagged": true
+  },
+  {
+    "row": 2554,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.16495279575258387,
+    "damaged_probability": 0.16668320105820103,
+    "flagged": true
+  },
+  {
+    "row": 2595,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.15539408484079062,
+    "damaged_probability": 0.4911585131329039,
+    "flagged": true
+  },
+  {
+    "row": 2747,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.2469736369044612,
+    "damaged_probability": 0.03751073487915593,
+    "flagged": true
+  },
+  {
+    "row": 2814,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.20157548588564278,
+    "damaged_probability": 0.007898351648351648,
+    "flagged": true
+  },
+  {
+    "row": 2982,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.15383560259790305,
+    "damaged_probability": 0.13508748196248196,
+    "flagged": true
+  },
+  {
+    "row": 3035,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5388131129506061,
+    "damaged_probability": 0.2555831304452628,
+    "flagged": true
+  },
+  {
+    "row": 3050,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7745121706369712,
+    "damaged_probability": 0.14684328981203984,
+    "flagged": true
+  },
+  {
+    "row": 3203,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.25112714377506284,
+    "damaged_probability": 0.21026824312669903,
+    "flagged": true
+  },
+  {
+    "row": 3336,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.002976190476190476,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 3437,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.015537558506308507,
+    "damaged_probability": 0.0023148148148148147,
+    "flagged": true
+  },
+  {
+    "row": 3446,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03021547318422318,
+    "damaged_probability": 0.24203533054635995,
+    "flagged": true
+  },
+  {
+    "row": 3840,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.849837062962643,
+    "damaged_probability": 0.4200686564219831,
+    "flagged": true
+  },
+  {
+    "row": 3861,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.04552982325103815,
+    "damaged_probability": 0.20006538683832753,
+    "flagged": true
+  },
+  {
+    "row": 4201,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.14642940646766875,
+    "damaged_probability": 0.2760078896797646,
+    "flagged": true
+  },
+  {
+    "row": 4369,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.48258784896878276,
+    "damaged_probability": 0.224361706002331,
+    "flagged": true
+  },
+  {
+    "row": 4408,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8558435084277368,
+    "damaged_probability": 0.1921753304565805,
+    "flagged": true
+  },
+  {
+    "row": 4750,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03187616950386506,
+    "damaged_probability": 0.16020547739297739,
+    "flagged": true
+  },
+  {
+    "row": 4756,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.3609104779080548,
+    "damaged_probability": 0.2519392458181465,
+    "flagged": true
+  },
+  {
+    "row": 5055,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.10882394600225485,
+    "damaged_probability": 0.2599117399258855,
+    "flagged": true
+  },
+  {
+    "row": 5117,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9678998465426393,
+    "damaged_probability": 0.24757873611274342,
+    "flagged": true
+  },
+  {
+    "row": 5235,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 5380,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.8633375445271563,
+    "damaged_probability": 0.4602697164967386,
+    "flagged": true
+  },
+  {
+    "row": 5389,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4303266858413915,
+    "damaged_probability": 0.3066791649408466,
+    "flagged": true
+  },
+  {
+    "row": 5638,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.4299485155252399,
+    "damaged_probability": 0.3199939341853348,
+    "flagged": true
+  },
+  {
+    "row": 5701,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5199395727336025,
+    "damaged_probability": 0.3442621603029006,
+    "flagged": true
+  },
+  {
+    "row": 5768,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.46742185095915567,
+    "damaged_probability": 0.3188119880106964,
+    "flagged": true
+  },
+  {
+    "row": 5817,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.21278296356421356,
+    "damaged_probability": 0.10970114954489955,
+    "flagged": true
+  },
+  {
+    "row": 6155,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8424751388847221,
+    "damaged_probability": 0.19548846102154918,
+    "flagged": true
+  },
+  {
+    "row": 6159,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8795267696970809,
+    "damaged_probability": 0.2486167835060306,
+    "flagged": true
+  },
+  {
+    "row": 6211,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8449588001960717,
+    "damaged_probability": 0.30108217441777224,
+    "flagged": true
+  },
+  {
+    "row": 6363,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9936670881327538,
+    "damaged_probability": 0.32463128847274153,
+    "flagged": true
+  },
+  {
+    "row": 6734,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5348846506093753,
+    "damaged_probability": 0.16414485398860398,
+    "flagged": true
+  },
+  {
+    "row": 6821,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6046745274414752,
+    "damaged_probability": 0.2434581349627092,
+    "flagged": true
+  },
+  {
+    "row": 7367,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.008357287551226408,
+    "damaged_probability": 0.27159967491545695,
+    "flagged": true
+  },
+  {
+    "row": 7429,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8291836161353161,
+    "damaged_probability": 0.1725714100714101,
+    "flagged": true
+  },
+  {
+    "row": 7588,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.46717127600306346,
+    "damaged_probability": 0.37506418253890406,
+    "flagged": true
+  },
+  {
+    "row": 7630,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6552392298072603,
+    "damaged_probability": 0.17512165037440772,
+    "flagged": true
+  },
+  {
+    "row": 8003,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.054829574360824355,
+    "damaged_probability": 0.02037198912198912,
+    "flagged": true
+  },
+  {
+    "row": 8338,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.15007700233138865,
+    "damaged_probability": 0.22671307280682285,
+    "flagged": true
+  },
+  {
+    "row": 8364,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.590638357772193,
+    "damaged_probability": 0.2430372000684501,
+    "flagged": true
+  },
+  {
+    "row": 8526,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03736449209650107,
+    "damaged_probability": 0.14338734182484184,
+    "flagged": true
+  },
+  {
+    "row": 8815,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7101656741454199,
+    "damaged_probability": 0.24094034888174956,
+    "flagged": true
+  },
+  {
+    "row": 8831,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.27984839361503705,
+    "damaged_probability": 0.33145768927213576,
+    "flagged": true
+  },
+  {
+    "row": 9045,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.21114513229082973,
+    "damaged_probability": 0.21827043037980542,
+    "flagged": true
+  },
+  {
+    "row": 9167,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.6426635989171233,
+    "damaged_probability": 0.20693305537055529,
+    "flagged": true
+  },
+  {
+    "row": 9191,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.378660618773539,
+    "damaged_probability": 0.3210055248554418,
+    "flagged": true
+  },
+  {
+    "row": 9201,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.007130456349206349,
+    "flagged": true
+  },
+  {
+    "row": 9306,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03132362395001854,
+    "damaged_probability": 0.15204535048285048,
+    "flagged": true
+  },
+  {
+    "row": 9482,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.23670802337060357,
+    "damaged_probability": 0.26791337618078115,
+    "flagged": true
+  },
+  {
+    "row": 9704,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 9726,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03898847101972102,
+    "damaged_probability": 0.013365800865800866,
+    "flagged": true
+  },
+  {
+    "row": 9741,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.009300595238095238,
+    "flagged": true
+  },
+  {
+    "row": 9771,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.07721443373313039,
+    "damaged_probability": 0.2673217985717986,
+    "flagged": true
+  },
+  {
+    "row": 9908,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.46251008538549404,
+    "damaged_probability": 0.16139974880783703,
+    "flagged": true
+  },
+  {
+    "row": 9918,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.02223575036075036,
+    "flagged": true
+  },
+  {
+    "row": 10229,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.60772391481757,
+    "damaged_probability": 0.22965930795916448,
+    "flagged": true
+  },
+  {
+    "row": 10260,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.2633031173064599,
+    "damaged_probability": 0.21372266333203835,
+    "flagged": true
+  },
+  {
+    "row": 10276,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9026134913689129,
+    "damaged_probability": 0.26314196428444886,
+    "flagged": true
+  },
+  {
+    "row": 10407,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.868065138683033,
+    "damaged_probability": 0.3326393105432636,
+    "flagged": true
+  },
+  {
+    "row": 10439,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.000744047619047619,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 10518,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.791794224478588,
+    "damaged_probability": 0.28176433402340956,
+    "flagged": true
+  },
+  {
+    "row": 10635,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.49964759203220394,
+    "damaged_probability": 0.3048067384004884,
+    "flagged": true
+  },
+  {
+    "row": 10657,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9456328077990763,
+    "damaged_probability": 0.2286881937847011,
+    "flagged": true
+  },
+  {
+    "row": 10933,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.2412854389057234,
+    "damaged_probability": 0.240128031498316,
+    "flagged": true
+  },
+  {
+    "row": 10954,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6833477607899799,
+    "damaged_probability": 0.32622052124304285,
+    "flagged": true
+  },
+  {
+    "row": 11027,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.10727779893180923,
+    "damaged_probability": 0.12509180634180633,
+    "flagged": true
+  },
+  {
+    "row": 11069,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11244,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.5449397837038567,
+    "damaged_probability": 0.3434641096827333,
+    "flagged": true
+  },
+  {
+    "row": 11519,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8332792101867774,
+    "damaged_probability": 0.3627504252963813,
+    "flagged": true
+  },
+  {
+    "row": 11542,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9140008759898336,
+    "damaged_probability": 0.24944647617855417,
+    "flagged": true
+  },
+  {
+    "row": 11631,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11695,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03863694574755384,
+    "damaged_probability": 0.2845514852628895,
+    "flagged": true
+  },
+  {
+    "row": 11701,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.021576265351079024,
+    "damaged_probability": 0.008665966386554622,
+    "flagged": true
+  },
+  {
+    "row": 11768,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.1422703164890665,
+    "damaged_probability": 0.13125170547045548,
+    "flagged": true
+  },
+  {
+    "row": 11814,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.4899903065456386,
+    "damaged_probability": 0.16773423335923332,
+    "flagged": true
+  },
+  {
+    "row": 11884,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.919413129962554,
+    "damaged_probability": 0.3253598349803361,
+    "flagged": true
+  },
+  {
+    "row": 11891,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9793620749777062,
+    "damaged_probability": 0.34271519367520425,
+    "flagged": true
+  },
+  {
+    "row": 12048,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.12247496322774414,
+    "damaged_probability": 0.24500614891434533,
+    "flagged": true
+  },
+  {
+    "row": 12137,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9618202724994597,
+    "damaged_probability": 0.17978900439837942,
+    "flagged": true
+  },
+  {
+    "row": 12408,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.001488095238095238,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 13180,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6154771734001498,
+    "damaged_probability": 0.23038052035283044,
+    "flagged": true
+  },
+  {
+    "row": 13309,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9166232605798478,
+    "damaged_probability": 0.32659467517704277,
+    "flagged": true
+  },
+  {
+    "row": 13425,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.005821078431372549,
+    "damaged_probability": 0.003179112554112554,
+    "flagged": true
+  },
+  {
+    "row": 13582,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5536943527691432,
+    "damaged_probability": 0.21149572360509852,
+    "flagged": true
+  },
+  {
+    "row": 13603,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9652616900203821,
+    "damaged_probability": 0.16365876600251603,
+    "flagged": true
+  },
+  {
+    "row": 13669,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.46631701072499404,
+    "damaged_probability": 0.3854353294920814,
+    "flagged": true
+  },
+  {
+    "row": 13705,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.42965809220108864,
+    "damaged_probability": 0.23411705065220134,
+    "flagged": true
+  },
+  {
+    "row": 13798,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.677203733467692,
+    "damaged_probability": 0.16226357554482548,
+    "flagged": true
+  },
+  {
+    "row": 13821,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.25689996440857576,
+    "damaged_probability": 0.13584875772375773,
+    "flagged": true
+  },
+  {
+    "row": 13947,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.1176763349965377,
+    "damaged_probability": 0.16535974153161653,
+    "flagged": true
+  },
+  {
+    "row": 14028,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14102,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4678121585184957,
+    "damaged_probability": 0.3742467062039934,
+    "flagged": true
+  },
+  {
+    "row": 14178,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.5958762611057552,
+    "damaged_probability": 0.355741422928923,
+    "flagged": true
+  },
+  {
+    "row": 14487,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5691052737224811,
+    "damaged_probability": 0.23549965169403728,
+    "flagged": true
+  },
+  {
+    "row": 14578,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5120092576641867,
+    "damaged_probability": 0.3416516259374234,
+    "flagged": true
+  },
+  {
+    "row": 14592,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.004728835978835979,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14701,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.001736111111111111,
+    "flagged": true
+  },
+  {
+    "row": 14881,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.10699838857249848,
+    "damaged_probability": 0.11085503038628038,
+    "flagged": true
+  },
+  {
+    "row": 14975,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8975442522195397,
+    "damaged_probability": 0.25923651851960666,
+    "flagged": true
+  },
+  {
+    "row": 15090,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.1262300836212486,
+    "damaged_probability": 0.20495336550024046,
+    "flagged": true
+  },
+  {
+    "row": 15167,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8985284214540634,
+    "damaged_probability": 0.1759823883904766,
+    "flagged": true
+  },
+  {
+    "row": 15194,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.24162831677035337,
+    "damaged_probability": 0.16070849680684238,
+    "flagged": true
+  },
+  {
+    "row": 15233,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.19325553926363315,
+    "damaged_probability": 0.2484047491859992,
+    "flagged": true
+  },
+  {
+    "row": 15331,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.010995370370370369,
+    "flagged": true
+  },
+  {
+    "row": 15414,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 15432,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.05673513407888408,
+    "damaged_probability": 0.06571044696044694,
+    "flagged": true
+  },
+  {
+    "row": 15514,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.008101851851851851,
+    "damaged_probability": 0.01474963115588116,
+    "flagged": true
+  },
+  {
+    "row": 15552,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.05308785623894418,
+    "damaged_probability": 0.172824022042772,
+    "flagged": true
+  },
+  {
+    "row": 15926,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.08546453546453547,
+    "damaged_probability": 0.1882729828042328,
+    "flagged": true
+  },
+  {
+    "row": 16064,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.012208146980300538,
+    "damaged_probability": 0.06971726190476189,
+    "flagged": true
+  },
+  {
+    "row": 16077,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.8206159616698425,
+    "damaged_probability": 0.22075883880982564,
+    "flagged": true
+  },
+  {
+    "row": 16141,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 16317,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9783178408242081,
+    "damaged_probability": 0.2827786821670102,
+    "flagged": true
+  },
+  {
+    "row": 16764,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4253409728378399,
+    "damaged_probability": 0.13513089919339918,
+    "flagged": true
+  },
+  {
+    "row": 16902,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0214823082010582,
+    "damaged_probability": 0.027264622864951817,
+    "flagged": true
+  },
+  {
+    "row": 16949,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7212372738247578,
+    "damaged_probability": 0.3583082715895216,
+    "flagged": true
+  },
+  {
+    "row": 17007,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6617127264937778,
+    "damaged_probability": 0.19529664490601986,
+    "flagged": true
+  },
+  {
+    "row": 17117,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9045268593033451,
+    "damaged_probability": 0.23951314166157914,
+    "flagged": true
+  },
+  {
+    "row": 17225,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.024137780112044815,
+    "damaged_probability": 0.07074409624961096,
+    "flagged": true
+  },
+  {
+    "row": 17607,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.4491168987262737,
+    "damaged_probability": 0.19648567153162744,
+    "flagged": true
+  },
+  {
+    "row": 17859,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.5312987572454092,
+    "damaged_probability": 0.3085837670644413,
+    "flagged": true
+  },
+  {
+    "row": 17887,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.49556295861902,
+    "damaged_probability": 0.3152399318743688,
+    "flagged": true
+  },
+  {
+    "row": 18167,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8153760782472653,
+    "damaged_probability": 0.3668040449928418,
+    "flagged": true
+  },
+  {
+    "row": 18178,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.552474932085085,
+    "damaged_probability": 0.12374466440363176,
+    "flagged": true
+  },
+  {
+    "row": 18358,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.046827332375424274,
+    "damaged_probability": 0.17892697580197578,
+    "flagged": true
+  },
+  {
+    "row": 18423,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9030607362745195,
+    "damaged_probability": 0.275311312978389,
+    "flagged": true
+  },
+  {
+    "row": 18437,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8806933326497443,
+    "damaged_probability": 0.27472904334691733,
+    "flagged": true
+  },
+  {
+    "row": 18516,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.5507792506441648,
+    "damaged_probability": 0.15868867056826616,
+    "flagged": true
+  },
+  {
+    "row": 18713,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.052084408630319684,
+    "damaged_probability": 0.1374203053890554,
+    "flagged": true
+  },
+  {
+    "row": 18830,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5721141039719161,
+    "damaged_probability": 0.14138855935730937,
+    "flagged": true
+  },
+  {
+    "row": 18912,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19067,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.22305773860926636,
+    "damaged_probability": 0.19336035186219003,
+    "flagged": true
+  },
+  {
+    "row": 19347,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7313116205847718,
+    "damaged_probability": 0.28876947705072714,
+    "flagged": true
+  },
+  {
+    "row": 19373,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.005285493827160494,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19391,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5093067854174561,
+    "damaged_probability": 0.2764709913313636,
+    "flagged": true
+  },
+  {
+    "row": 19604,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.11699620745267934,
+    "damaged_probability": 0.11920132768485181,
+    "flagged": true
+  },
+  {
+    "row": 19657,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.467160130637686,
+    "damaged_probability": 0.23729802726513247,
+    "flagged": true
+  },
+  {
+    "row": 19659,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8734334459333338,
+    "damaged_probability": 0.19893625743809565,
+    "flagged": true
+  },
+  {
+    "row": 19660,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.022325937950937947,
+    "damaged_probability": 0.27218988459797283,
+    "flagged": true
+  },
+  {
+    "row": 19751,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4062051082284517,
+    "damaged_probability": 0.30544799312894627,
+    "flagged": true
+  },
+  {
+    "row": 19766,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.005544354838709677,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19798,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.6293657916681789,
+    "damaged_probability": 0.1670105068542568,
+    "flagged": true
+  },
+  {
+    "row": 19858,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.2125416597574841,
+    "damaged_probability": 0.12985671735671736,
+    "flagged": true
+  },
+  {
+    "row": 20138,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6443122227461577,
+    "damaged_probability": 0.20586381211381213,
+    "flagged": true
+  },
+  {
+    "row": 20269,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0076167424646332365,
+    "damaged_probability": 0.28577276311651306,
+    "flagged": true
+  },
+  {
+    "row": 20282,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.12355597896044056,
+    "damaged_probability": 0.3440038804918626,
+    "flagged": true
+  },
+  {
+    "row": 20433,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0020833333333333333,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 20565,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8603710224743973,
+    "damaged_probability": 0.4109961295950548,
+    "flagged": true
+  },
+  {
+    "row": 20689,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.2041507440395395,
+    "damaged_probability": 0.17781069437778996,
+    "flagged": true
+  },
+  {
+    "row": 20807,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.2959855242253883,
+    "damaged_probability": 0.2896587787212787,
+    "flagged": true
+  },
+  {
+    "row": 20897,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.46960923283097117,
+    "damaged_probability": 0.23513217443086631,
+    "flagged": true
+  },
+  {
+    "row": 20925,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.503661465805786,
+    "damaged_probability": 0.3144017440892441,
+    "flagged": true
+  },
+  {
+    "row": 20975,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9060923634356147,
+    "damaged_probability": 0.3463850676461821,
+    "flagged": true
+  },
+  {
+    "row": 21235,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.40457384006522107,
+    "damaged_probability": 0.35657649255905627,
+    "flagged": true
+  },
+  {
+    "row": 21352,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9314216311417707,
+    "damaged_probability": 0.3242224117081662,
+    "flagged": true
+  },
+  {
+    "row": 21466,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.49563216211802624,
+    "damaged_probability": 0.326685848416934,
+    "flagged": true
+  },
+  {
+    "row": 21571,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.900394109504457,
+    "damaged_probability": 0.25447026676346524,
+    "flagged": true
+  },
+  {
+    "row": 21591,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.039240996272246274,
+    "damaged_probability": 0.06321416192739722,
+    "flagged": true
+  },
+  {
+    "row": 21603,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6000612715419711,
+    "damaged_probability": 0.17677338575776078,
+    "flagged": true
+  },
+  {
+    "row": 21729,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.033575728515506754,
+    "damaged_probability": 0.16982772724960224,
+    "flagged": true
+  },
+  {
+    "row": 21888,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 21952,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.005208333333333333,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 22042,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8406815036919818,
+    "damaged_probability": 0.3219622680560181,
+    "flagged": true
+  },
+  {
+    "row": 22685,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5881071844485929,
+    "damaged_probability": 0.33869817667103846,
+    "flagged": true
+  },
+  {
+    "row": 22847,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.932606700021132,
+    "damaged_probability": 0.20742614420233899,
+    "flagged": true
+  },
+  {
+    "row": 22887,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8051019808974905,
+    "damaged_probability": 0.3872930850929834,
+    "flagged": true
+  },
+  {
+    "row": 22911,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6745853107946798,
+    "damaged_probability": 0.3154315158221408,
+    "flagged": true
+  },
+  {
+    "row": 23458,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5139062585281579,
+    "damaged_probability": 0.35058042522586547,
+    "flagged": true
+  },
+  {
+    "row": 23684,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.2794473737468899,
+    "damaged_probability": 0.07523674242424243,
+    "flagged": true
+  },
+  {
+    "row": 23727,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.01987847222222222,
+    "damaged_probability": 0.010581432456432456,
+    "flagged": true
+  },
+  {
+    "row": 23836,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.00598169191919192,
+    "damaged_probability": 0.014988425925925924,
+    "flagged": true
+  },
+  {
+    "row": 23845,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4128649398515068,
+    "damaged_probability": 0.19897771799767353,
+    "flagged": true
+  },
+  {
+    "row": 23999,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6064699950883219,
+    "damaged_probability": 0.23024541838880075,
+    "flagged": true
+  },
+  {
+    "row": 24062,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6702374261554261,
+    "damaged_probability": 0.20615602219858684,
+    "flagged": true
+  },
+  {
+    "row": 24267,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.3681307376746261,
+    "damaged_probability": 0.17373000263625257,
+    "flagged": true
+  },
+  {
+    "row": 24317,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.2166519208511396,
+    "damaged_probability": 0.11802141724016725,
+    "flagged": true
+  },
+  {
+    "row": 24493,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7418047029937779,
+    "damaged_probability": 0.27600472405208937,
+    "flagged": true
+  },
+  {
+    "row": 24565,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.028133267195767198,
+    "damaged_probability": 0.021950156325156327,
+    "flagged": true
+  },
+  {
+    "row": 25066,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4205353450689313,
+    "damaged_probability": 0.21398088312150812,
+    "flagged": true
+  },
+  {
+    "row": 25110,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6741328057375652,
+    "damaged_probability": 0.2663438944132636,
+    "flagged": true
+  },
+  {
+    "row": 25284,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8902087831709049,
+    "damaged_probability": 0.3442070756358362,
+    "flagged": true
+  },
+  {
+    "row": 25469,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.6238037172109945,
+    "damaged_probability": 0.3118434739790684,
+    "flagged": true
+  },
+  {
+    "row": 25710,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.43259654152955185,
+    "damaged_probability": 0.2250480133292633,
+    "flagged": true
+  },
+  {
+    "row": 25742,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8551725004056379,
+    "damaged_probability": 0.4288571263295527,
+    "flagged": true
+  },
+  {
+    "row": 25758,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9591241803087901,
+    "damaged_probability": 0.30128727092788626,
+    "flagged": true
+  },
+  {
+    "row": 25804,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6515247888476924,
+    "damaged_probability": 0.34162312422272806,
+    "flagged": true
+  },
+  {
+    "row": 25897,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5508193319552234,
+    "damaged_probability": 0.4102531574893921,
+    "flagged": true
+  },
+  {
+    "row": 25910,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.49237227010863355,
+    "damaged_probability": 0.21174535601925307,
+    "flagged": true
+  },
+  {
+    "row": 25979,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.12045199463080793,
+    "damaged_probability": 0.16556887845950344,
+    "flagged": true
+  },
+  {
+    "row": 26009,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.10426150641102298,
+    "damaged_probability": 0.19077659897972396,
+    "flagged": true
+  },
+  {
+    "row": 26036,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.1761773459383754,
+    "damaged_probability": 0.07530883468383469,
+    "flagged": true
+  },
+  {
+    "row": 26637,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.003472222222222222,
+    "flagged": true
+  },
+  {
+    "row": 26790,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0034053077464407514,
+    "damaged_probability": 0.10982976803289306,
+    "flagged": true
+  },
+  {
+    "row": 26858,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.04135095566329703,
+    "damaged_probability": 0.1626405423280423,
+    "flagged": true
+  },
+  {
+    "row": 26877,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.41959832955322646,
+    "damaged_probability": 0.15752576416638917,
+    "flagged": true
+  },
+  {
+    "row": 27028,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6053590299850166,
+    "damaged_probability": 0.24519996951704373,
+    "flagged": true
+  },
+  {
+    "row": 27033,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9603885705324172,
+    "damaged_probability": 0.154283766002516,
+    "flagged": true
+  },
+  {
+    "row": 27696,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.022387315051614315,
+    "damaged_probability": 0.25569031662781666,
+    "flagged": true
+  },
+  {
+    "row": 27793,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.9406450216486842,
+    "damaged_probability": 0.2963429222798752,
+    "flagged": true
+  },
+  {
+    "row": 27799,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7230728663428693,
+    "damaged_probability": 0.1842410278991161,
+    "flagged": true
+  },
+  {
+    "row": 27916,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.02996667684167684,
+    "damaged_probability": 0.022929067460317462,
+    "flagged": true
+  },
+  {
+    "row": 27924,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.00390625,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 28050,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.6360669228484915,
+    "damaged_probability": 0.2898672508047508,
+    "flagged": true
+  },
+  {
+    "row": 28156,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6620519592357269,
+    "damaged_probability": 0.3912258850218408,
+    "flagged": true
+  },
+  {
+    "row": 28491,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 28500,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.07270998677248679,
+    "damaged_probability": 0.05219681938431938,
+    "flagged": true
+  },
+  {
+    "row": 28864,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6961726300748389,
+    "damaged_probability": 0.32817866955747105,
+    "flagged": true
+  },
+  {
+    "row": 29016,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.4827674947449583,
+    "damaged_probability": 0.16597165854978355,
+    "flagged": true
+  },
+  {
+    "row": 29110,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.3903533443162093,
+    "damaged_probability": 0.2798674993987494,
+    "flagged": true
+  },
+  {
+    "row": 29345,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8831648177299015,
+    "damaged_probability": 0.22833030089463904,
+    "flagged": true
+  },
+  {
+    "row": 29440,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.4230534137085773,
+    "damaged_probability": 0.23753744428086535,
+    "flagged": true
+  },
+  {
+    "row": 29531,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.24959355806230807,
+    "damaged_probability": 0.16820572367447365,
+    "flagged": true
+  },
+  {
+    "row": 29928,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0438900740192625,
+    "damaged_probability": 0.3065643965919701,
+    "flagged": true
+  },
+  {
+    "row": 30001,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8368605337984633,
+    "damaged_probability": 0.198727033791372,
+    "flagged": true
+  },
+  {
+    "row": 30026,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.45692474331402977,
+    "damaged_probability": 0.2923309363171281,
+    "flagged": true
+  },
+  {
+    "row": 30331,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.061240312205647573,
+    "damaged_probability": 0.2371397410459911,
+    "flagged": true
+  },
+  {
+    "row": 30465,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.4344319446590692,
+    "damaged_probability": 0.24687374257686756,
+    "flagged": true
+  },
+  {
+    "row": 30507,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.5174275704713399,
+    "damaged_probability": 0.2264009360057154,
+    "flagged": true
+  },
+  {
+    "row": 30588,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.2135850156173528,
+    "damaged_probability": 0.19785736118456707,
+    "flagged": true
+  },
+  {
+    "row": 30756,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 30805,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.22544405485581953,
+    "damaged_probability": 0.3866988489222863,
+    "flagged": true
+  },
+  {
+    "row": 30851,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.1906122767434479,
+    "damaged_probability": 0.25941592390883994,
+    "flagged": true
+  },
+  {
+    "row": 30900,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.49327583879794346,
+    "damaged_probability": 0.1811827724971107,
+    "flagged": true
+  },
+  {
+    "row": 30926,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7647859030641695,
+    "damaged_probability": 0.09348076691826691,
+    "flagged": true
+  },
+  {
+    "row": 30938,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.5160270151293576,
+    "damaged_probability": 0.1407388618326118,
+    "flagged": true
+  },
+  {
+    "row": 31175,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.14264445045695043,
+    "damaged_probability": 0.14465086418211417,
+    "flagged": true
+  },
+  {
+    "row": 31303,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.51054188806829,
+    "damaged_probability": 0.1689093314093314,
+    "flagged": true
+  },
+  {
+    "row": 31381,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.18951379657765774,
+    "damaged_probability": 0.1539600445850446,
+    "flagged": true
+  },
+  {
+    "row": 31424,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7021744559445476,
+    "damaged_probability": 0.2621750661796404,
+    "flagged": true
+  },
+  {
+    "row": 31459,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.8000039710137982,
+    "damaged_probability": 0.3494147195804813,
+    "flagged": true
+  },
+  {
+    "row": 31718,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.7541216413346751,
+    "damaged_probability": 0.31905156811881935,
+    "flagged": true
+  },
+  {
+    "row": 31999,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.03566456691456692,
+    "damaged_probability": 0.035493615181115185,
+    "flagged": true
+  },
+  {
+    "row": 32260,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.44552011392478635,
+    "damaged_probability": 0.20882642514076333,
+    "flagged": true
+  },
+  {
+    "row": 32289,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.06936458742335512,
+    "damaged_probability": 0.23377918562426536,
+    "flagged": true
+  },
+  {
+    "row": 32308,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.4117240216402284,
+    "damaged_probability": 0.3292895922936812,
+    "flagged": true
+  },
+  {
+    "row": 32372,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.6995370090336134,
+    "damaged_probability": 0.34150557297109024,
+    "flagged": true
+  },
+  {
+    "row": 32538,
+    "kind": "blur",
+    "label": 0,
+    "clean_probability": 0.46999615092344893,
+    "damaged_probability": 0.42878681080147757,
+    "flagged": true
+  },
+  {
+    "row": 32753,
+    "kind": "blur",
+    "label": 1,
+    "clean_probability": 0.985604410759569,
+    "damaged_probability": 0.37881628876067425,
+    "flagged": true
+  },
+  {
+    "row": 58,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.12312128741356682,
+    "flagged": true
+  },
+  {
+    "row": 135,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.5623479870614568,
+    "damaged_probability": 0.3863850395715703,
+    "flagged": true
+  },
+  {
+    "row": 418,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.014938560216355522,
+    "damaged_probability": 0.13005433358390947,
+    "flagged": true
+  },
+  {
+    "row": 420,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.08379581049174634,
+    "damaged_probability": 0.214047595199939,
+    "flagged": true
+  },
+  {
+    "row": 772,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.007589285714285714,
+    "damaged_probability": 0.12518299410447128,
+    "flagged": true
+  },
+  {
+    "row": 858,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.011979166666666666,
+    "damaged_probability": 0.18405921080553433,
+    "flagged": true
+  },
+  {
+    "row": 991,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.08480113636363638,
+    "flagged": true
+  },
+  {
+    "row": 1071,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5803075875146905,
+    "damaged_probability": 0.3896311250899743,
+    "flagged": true
+  },
+  {
+    "row": 1108,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5368188385985871,
+    "damaged_probability": 0.4220956887402882,
+    "flagged": true
+  },
+  {
+    "row": 1130,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7366078931651737,
+    "damaged_probability": 0.45251258040861014,
+    "flagged": true
+  },
+  {
+    "row": 1226,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9768581194810588,
+    "damaged_probability": 0.5044183779268204,
+    "flagged": true
+  },
+  {
+    "row": 1271,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.06335225946439181,
+    "damaged_probability": 0.1873413317347141,
+    "flagged": true
+  },
+  {
+    "row": 1917,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9252078968246873,
+    "damaged_probability": 0.5213902446512009,
+    "flagged": true
+  },
+  {
+    "row": 1951,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.07310088210615663,
+    "damaged_probability": 0.2906611315560757,
+    "flagged": true
+  },
+  {
+    "row": 2215,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.06449970556505896,
+    "damaged_probability": 0.15593950753052033,
+    "flagged": true
+  },
+  {
+    "row": 2273,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8313184051580099,
+    "damaged_probability": 0.47543744441684477,
+    "flagged": true
+  },
+  {
+    "row": 2536,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9692704034416054,
+    "damaged_probability": 0.6089532535112541,
+    "flagged": true
+  },
+  {
+    "row": 2539,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.11424099627224628,
+    "damaged_probability": 0.2077357406012067,
+    "flagged": true
+  },
+  {
+    "row": 2554,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.16495279575258387,
+    "damaged_probability": 0.3432148150057619,
+    "flagged": true
+  },
+  {
+    "row": 2595,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.15539408484079062,
+    "damaged_probability": 0.14604452260702258,
+    "flagged": true
+  },
+  {
+    "row": 2747,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.2469736369044612,
+    "damaged_probability": 0.137620615862292,
+    "flagged": true
+  },
+  {
+    "row": 2814,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.20157548588564278,
+    "damaged_probability": 0.19046458080175188,
+    "flagged": true
+  },
+  {
+    "row": 2982,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.15383560259790305,
+    "damaged_probability": 0.3312167725389694,
+    "flagged": true
+  },
+  {
+    "row": 3035,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5388131129506061,
+    "damaged_probability": 0.3121232262540082,
+    "flagged": true
+  },
+  {
+    "row": 3050,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7745121706369712,
+    "damaged_probability": 0.5235395892360342,
+    "flagged": true
+  },
+  {
+    "row": 3203,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.25112714377506284,
+    "damaged_probability": 0.22020262964730464,
+    "flagged": true
+  },
+  {
+    "row": 3336,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.002976190476190476,
+    "damaged_probability": 0.10647558837096881,
+    "flagged": true
+  },
+  {
+    "row": 3437,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.015537558506308507,
+    "damaged_probability": 0.10162277263428578,
+    "flagged": true
+  },
+  {
+    "row": 3446,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03021547318422318,
+    "damaged_probability": 0.15834264115514116,
+    "flagged": true
+  },
+  {
+    "row": 3840,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.849837062962643,
+    "damaged_probability": 0.5718487077334667,
+    "flagged": true
+  },
+  {
+    "row": 3861,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.04552982325103815,
+    "damaged_probability": 0.14123119441038517,
+    "flagged": true
+  },
+  {
+    "row": 4201,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.14642940646766875,
+    "damaged_probability": 0.2990613888659452,
+    "flagged": true
+  },
+  {
+    "row": 4369,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.48258784896878276,
+    "damaged_probability": 0.247721465078802,
+    "flagged": true
+  },
+  {
+    "row": 4408,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8558435084277368,
+    "damaged_probability": 0.536774891024764,
+    "flagged": true
+  },
+  {
+    "row": 4750,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03187616950386506,
+    "damaged_probability": 0.13497880455601047,
+    "flagged": true
+  },
+  {
+    "row": 4756,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.3609104779080548,
+    "damaged_probability": 0.5761458782855393,
+    "flagged": true
+  },
+  {
+    "row": 5055,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.10882394600225485,
+    "damaged_probability": 0.11144034002489883,
+    "flagged": true
+  },
+  {
+    "row": 5117,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9678998465426393,
+    "damaged_probability": 0.6035694720320739,
+    "flagged": true
+  },
+  {
+    "row": 5235,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.06992285401002506,
+    "flagged": true
+  },
+  {
+    "row": 5380,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.8633375445271563,
+    "damaged_probability": 0.5080921253821854,
+    "flagged": true
+  },
+  {
+    "row": 5389,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4303266858413915,
+    "damaged_probability": 0.3552672808876853,
+    "flagged": true
+  },
+  {
+    "row": 5638,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.4299485155252399,
+    "damaged_probability": 0.5490459067405863,
+    "flagged": true
+  },
+  {
+    "row": 5701,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5199395727336025,
+    "damaged_probability": 0.43546942093529845,
+    "flagged": true
+  },
+  {
+    "row": 5768,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.46742185095915567,
+    "damaged_probability": 0.4216038951495055,
+    "flagged": true
+  },
+  {
+    "row": 5817,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.21278296356421356,
+    "damaged_probability": 0.20530730843230838,
+    "flagged": true
+  },
+  {
+    "row": 6155,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8424751388847221,
+    "damaged_probability": 0.45264560772260665,
+    "flagged": true
+  },
+  {
+    "row": 6159,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8795267696970809,
+    "damaged_probability": 0.5427273560349347,
+    "flagged": true
+  },
+  {
+    "row": 6211,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8449588001960717,
+    "damaged_probability": 0.4212720159317962,
+    "flagged": true
+  },
+  {
+    "row": 6363,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9936670881327538,
+    "damaged_probability": 0.6434226406961964,
+    "flagged": true
+  },
+  {
+    "row": 6734,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5348846506093753,
+    "damaged_probability": 0.556536143163343,
+    "flagged": true
+  },
+  {
+    "row": 6821,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6046745274414752,
+    "damaged_probability": 0.38163498670650925,
+    "flagged": true
+  },
+  {
+    "row": 7367,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.008357287551226408,
+    "damaged_probability": 0.09747203300104292,
+    "flagged": true
+  },
+  {
+    "row": 7429,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8291836161353161,
+    "damaged_probability": 0.49615211116410735,
+    "flagged": true
+  },
+  {
+    "row": 7588,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.46717127600306346,
+    "damaged_probability": 0.5167683501268888,
+    "flagged": true
+  },
+  {
+    "row": 7630,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6552392298072603,
+    "damaged_probability": 0.20987768019018016,
+    "flagged": true
+  },
+  {
+    "row": 8003,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.054829574360824355,
+    "damaged_probability": 0.061467352092352094,
+    "flagged": true
+  },
+  {
+    "row": 8338,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.15007700233138865,
+    "damaged_probability": 0.29763484997226125,
+    "flagged": true
+  },
+  {
+    "row": 8364,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.590638357772193,
+    "damaged_probability": 0.5441129400735064,
+    "flagged": true
+  },
+  {
+    "row": 8526,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03736449209650107,
+    "damaged_probability": 0.240193101651435,
+    "flagged": true
+  },
+  {
+    "row": 8815,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7101656741454199,
+    "damaged_probability": 0.3393519468136141,
+    "flagged": true
+  },
+  {
+    "row": 8831,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.27984839361503705,
+    "damaged_probability": 0.3153957521372536,
+    "flagged": true
+  },
+  {
+    "row": 9045,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.21114513229082973,
+    "damaged_probability": 0.23615780366472447,
+    "flagged": true
+  },
+  {
+    "row": 9167,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.6426635989171233,
+    "damaged_probability": 0.34666035620027885,
+    "flagged": true
+  },
+  {
+    "row": 9191,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.378660618773539,
+    "damaged_probability": 0.3477174767652224,
+    "flagged": true
+  },
+  {
+    "row": 9201,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.09185259185259186,
+    "flagged": true
+  },
+  {
+    "row": 9306,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03132362395001854,
+    "damaged_probability": 0.12658646246218283,
+    "flagged": true
+  },
+  {
+    "row": 9482,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.23670802337060357,
+    "damaged_probability": 0.33934949595843905,
+    "flagged": true
+  },
+  {
+    "row": 9704,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.06800101317764363,
+    "flagged": true
+  },
+  {
+    "row": 9726,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03898847101972102,
+    "damaged_probability": 0.2213012392699892,
+    "flagged": true
+  },
+  {
+    "row": 9741,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.06630701474451477,
+    "flagged": true
+  },
+  {
+    "row": 9771,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.07721443373313039,
+    "damaged_probability": 0.18894956774494306,
+    "flagged": true
+  },
+  {
+    "row": 9908,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.46251008538549404,
+    "damaged_probability": 0.3975967598246886,
+    "flagged": true
+  },
+  {
+    "row": 9918,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.1217152928090428,
+    "flagged": true
+  },
+  {
+    "row": 10229,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.60772391481757,
+    "damaged_probability": 0.3463604780739867,
+    "flagged": true
+  },
+  {
+    "row": 10260,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.2633031173064599,
+    "damaged_probability": 0.3062636396160533,
+    "flagged": true
+  },
+  {
+    "row": 10276,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9026134913689129,
+    "damaged_probability": 0.5941871655794989,
+    "flagged": true
+  },
+  {
+    "row": 10407,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.868065138683033,
+    "damaged_probability": 0.5056877399542342,
+    "flagged": true
+  },
+  {
+    "row": 10439,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.000744047619047619,
+    "damaged_probability": 0.05826950826950828,
+    "flagged": true
+  },
+  {
+    "row": 10518,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.791794224478588,
+    "damaged_probability": 0.4371900613762067,
+    "flagged": true
+  },
+  {
+    "row": 10635,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.49964759203220394,
+    "damaged_probability": 0.38991779875825916,
+    "flagged": true
+  },
+  {
+    "row": 10657,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9456328077990763,
+    "damaged_probability": 0.43279809406415565,
+    "flagged": true
+  },
+  {
+    "row": 10933,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.2412854389057234,
+    "damaged_probability": 0.3543474196498418,
+    "flagged": true
+  },
+  {
+    "row": 10954,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6833477607899799,
+    "damaged_probability": 0.36149009805419924,
+    "flagged": true
+  },
+  {
+    "row": 11027,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.10727779893180923,
+    "damaged_probability": 0.19455043203256694,
+    "flagged": true
+  },
+  {
+    "row": 11069,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.11505434074367894,
+    "flagged": true
+  },
+  {
+    "row": 11244,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.5449397837038567,
+    "damaged_probability": 0.3689986083775923,
+    "flagged": true
+  },
+  {
+    "row": 11519,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8332792101867774,
+    "damaged_probability": 0.6156835713289076,
+    "flagged": true
+  },
+  {
+    "row": 11542,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9140008759898336,
+    "damaged_probability": 0.4354422949061018,
+    "flagged": true
+  },
+  {
+    "row": 11631,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.09499346139971139,
+    "flagged": true
+  },
+  {
+    "row": 11695,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03863694574755384,
+    "damaged_probability": 0.38404476242778474,
+    "flagged": true
+  },
+  {
+    "row": 11701,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.021576265351079024,
+    "damaged_probability": 0.14831647777895005,
+    "flagged": true
+  },
+  {
+    "row": 11768,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.1422703164890665,
+    "damaged_probability": 0.1522794471323883,
+    "flagged": true
+  },
+  {
+    "row": 11814,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.4899903065456386,
+    "damaged_probability": 0.31365693322041044,
+    "flagged": true
+  },
+  {
+    "row": 11884,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.919413129962554,
+    "damaged_probability": 0.6090662218641995,
+    "flagged": true
+  },
+  {
+    "row": 11891,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9793620749777062,
+    "damaged_probability": 0.6960313118743451,
+    "flagged": true
+  },
+  {
+    "row": 12048,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.12247496322774414,
+    "damaged_probability": 0.3263746646711057,
+    "flagged": true
+  },
+  {
+    "row": 12137,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9618202724994597,
+    "damaged_probability": 0.5676083160993303,
+    "flagged": true
+  },
+  {
+    "row": 12408,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.001488095238095238,
+    "damaged_probability": 0.0747477638102638,
+    "flagged": true
+  },
+  {
+    "row": 13180,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6154771734001498,
+    "damaged_probability": 0.5257640588894555,
+    "flagged": true
+  },
+  {
+    "row": 13309,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9166232605798478,
+    "damaged_probability": 0.43798590139397436,
+    "flagged": true
+  },
+  {
+    "row": 13425,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.005821078431372549,
+    "damaged_probability": 0.09412094300107071,
+    "flagged": true
+  },
+  {
+    "row": 13582,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5536943527691432,
+    "damaged_probability": 0.4391802441648702,
+    "flagged": true
+  },
+  {
+    "row": 13603,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9652616900203821,
+    "damaged_probability": 0.584453617953685,
+    "flagged": true
+  },
+  {
+    "row": 13669,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.46631701072499404,
+    "damaged_probability": 0.31265909053250146,
+    "flagged": true
+  },
+  {
+    "row": 13705,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.42965809220108864,
+    "damaged_probability": 0.24344160379919608,
+    "flagged": true
+  },
+  {
+    "row": 13798,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.677203733467692,
+    "damaged_probability": 0.6631285159648846,
+    "flagged": true
+  },
+  {
+    "row": 13821,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.25689996440857576,
+    "damaged_probability": 0.3778218242244406,
+    "flagged": true
+  },
+  {
+    "row": 13947,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.1176763349965377,
+    "damaged_probability": 0.34122443794164864,
+    "flagged": true
+  },
+  {
+    "row": 14028,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.042276213369963365,
+    "flagged": true
+  },
+  {
+    "row": 14102,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4678121585184957,
+    "damaged_probability": 0.1707434771820524,
+    "flagged": true
+  },
+  {
+    "row": 14178,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.5958762611057552,
+    "damaged_probability": 0.4267324281111046,
+    "flagged": true
+  },
+  {
+    "row": 14487,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5691052737224811,
+    "damaged_probability": 0.3720306484073912,
+    "flagged": true
+  },
+  {
+    "row": 14578,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5120092576641867,
+    "damaged_probability": 0.41996198093091386,
+    "flagged": true
+  },
+  {
+    "row": 14592,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.004728835978835979,
+    "damaged_probability": 0.1770690536315536,
+    "flagged": true
+  },
+  {
+    "row": 14701,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.11705364352423175,
+    "flagged": true
+  },
+  {
+    "row": 14881,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.10699838857249848,
+    "damaged_probability": 0.24856896523912195,
+    "flagged": true
+  },
+  {
+    "row": 14975,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8975442522195397,
+    "damaged_probability": 0.5211895761250682,
+    "flagged": true
+  },
+  {
+    "row": 15090,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.1262300836212486,
+    "damaged_probability": 0.2602984615971045,
+    "flagged": true
+  },
+  {
+    "row": 15167,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8985284214540634,
+    "damaged_probability": 0.5556279362614164,
+    "flagged": true
+  },
+  {
+    "row": 15194,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.24162831677035337,
+    "damaged_probability": 0.26955070590202107,
+    "flagged": true
+  },
+  {
+    "row": 15233,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.19325553926363315,
+    "damaged_probability": 0.38429754389598453,
+    "flagged": true
+  },
+  {
+    "row": 15331,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.16423306064850185,
+    "flagged": true
+  },
+  {
+    "row": 15414,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.09643273393273394,
+    "flagged": true
+  },
+  {
+    "row": 15432,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.05673513407888408,
+    "damaged_probability": 0.08952324782916887,
+    "flagged": true
+  },
+  {
+    "row": 15514,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.008101851851851851,
+    "damaged_probability": 0.1696661556036556,
+    "flagged": true
+  },
+  {
+    "row": 15552,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.05308785623894418,
+    "damaged_probability": 0.3065644945002063,
+    "flagged": true
+  },
+  {
+    "row": 15926,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.08546453546453547,
+    "damaged_probability": 0.13165633556258557,
+    "flagged": true
+  },
+  {
+    "row": 16064,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.012208146980300538,
+    "damaged_probability": 0.18178253795483193,
+    "flagged": true
+  },
+  {
+    "row": 16077,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.8206159616698425,
+    "damaged_probability": 0.5690501394615259,
+    "flagged": true
+  },
+  {
+    "row": 16141,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.07959505772005773,
+    "flagged": true
+  },
+  {
+    "row": 16317,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9783178408242081,
+    "damaged_probability": 0.6191502878243291,
+    "flagged": true
+  },
+  {
+    "row": 16764,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4253409728378399,
+    "damaged_probability": 0.4868981774882631,
+    "flagged": true
+  },
+  {
+    "row": 16902,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0214823082010582,
+    "damaged_probability": 0.16137556338069106,
+    "flagged": true
+  },
+  {
+    "row": 16949,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7212372738247578,
+    "damaged_probability": 0.5979751718146546,
+    "flagged": true
+  },
+  {
+    "row": 17007,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6617127264937778,
+    "damaged_probability": 0.33000055132305833,
+    "flagged": true
+  },
+  {
+    "row": 17117,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9045268593033451,
+    "damaged_probability": 0.43010376013264673,
+    "flagged": true
+  },
+  {
+    "row": 17225,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.024137780112044815,
+    "damaged_probability": 0.09188621137634297,
+    "flagged": true
+  },
+  {
+    "row": 17607,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.4491168987262737,
+    "damaged_probability": 0.29220989117662505,
+    "flagged": true
+  },
+  {
+    "row": 17859,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.5312987572454092,
+    "damaged_probability": 0.41768257940894365,
+    "flagged": true
+  },
+  {
+    "row": 17887,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.49556295861902,
+    "damaged_probability": 0.45771941781773323,
+    "flagged": true
+  },
+  {
+    "row": 18167,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8153760782472653,
+    "damaged_probability": 0.5031713857727492,
+    "flagged": true
+  },
+  {
+    "row": 18178,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.552474932085085,
+    "damaged_probability": 0.42848912848736265,
+    "flagged": true
+  },
+  {
+    "row": 18358,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.046827332375424274,
+    "damaged_probability": 0.22719100824444224,
+    "flagged": true
+  },
+  {
+    "row": 18423,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9030607362745195,
+    "damaged_probability": 0.5805848372653692,
+    "flagged": true
+  },
+  {
+    "row": 18437,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8806933326497443,
+    "damaged_probability": 0.5286196424725332,
+    "flagged": true
+  },
+  {
+    "row": 18516,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.5507792506441648,
+    "damaged_probability": 0.3101122716365039,
+    "flagged": true
+  },
+  {
+    "row": 18713,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.052084408630319684,
+    "damaged_probability": 0.09895616855610888,
+    "flagged": true
+  },
+  {
+    "row": 18830,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5721141039719161,
+    "damaged_probability": 0.4633162844100345,
+    "flagged": true
+  },
+  {
+    "row": 18912,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.06372879464017235,
+    "flagged": true
+  },
+  {
+    "row": 19067,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.22305773860926636,
+    "damaged_probability": 0.26039984813256084,
+    "flagged": true
+  },
+  {
+    "row": 19347,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7313116205847718,
+    "damaged_probability": 0.41103212306035136,
+    "flagged": true
+  },
+  {
+    "row": 19373,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.005285493827160494,
+    "damaged_probability": 0.06500650299992405,
+    "flagged": true
+  },
+  {
+    "row": 19391,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5093067854174561,
+    "damaged_probability": 0.4055178599005598,
+    "flagged": true
+  },
+  {
+    "row": 19604,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.11699620745267934,
+    "damaged_probability": 0.09855120532884058,
+    "flagged": true
+  },
+  {
+    "row": 19657,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.467160130637686,
+    "damaged_probability": 0.39663618089907043,
+    "flagged": true
+  },
+  {
+    "row": 19659,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8734334459333338,
+    "damaged_probability": 0.5324333949374717,
+    "flagged": true
+  },
+  {
+    "row": 19660,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.022325937950937947,
+    "damaged_probability": 0.22338789843665194,
+    "flagged": true
+  },
+  {
+    "row": 19751,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4062051082284517,
+    "damaged_probability": 0.2813890307409866,
+    "flagged": true
+  },
+  {
+    "row": 19766,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.005544354838709677,
+    "damaged_probability": 0.08187988273673757,
+    "flagged": true
+  },
+  {
+    "row": 19798,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.6293657916681789,
+    "damaged_probability": 0.4058647914377726,
+    "flagged": true
+  },
+  {
+    "row": 19858,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.2125416597574841,
+    "damaged_probability": 0.22098669444899602,
+    "flagged": true
+  },
+  {
+    "row": 20138,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6443122227461577,
+    "damaged_probability": 0.38140138643355553,
+    "flagged": true
+  },
+  {
+    "row": 20269,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0076167424646332365,
+    "damaged_probability": 0.19677039737776533,
+    "flagged": true
+  },
+  {
+    "row": 20282,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.12355597896044056,
+    "damaged_probability": 0.05143051912544108,
+    "flagged": true
+  },
+  {
+    "row": 20433,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0020833333333333333,
+    "damaged_probability": 0.07750683922558924,
+    "flagged": true
+  },
+  {
+    "row": 20565,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8603710224743973,
+    "damaged_probability": 0.6487839556392722,
+    "flagged": true
+  },
+  {
+    "row": 20689,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.2041507440395395,
+    "damaged_probability": 0.3199786100230671,
+    "flagged": true
+  },
+  {
+    "row": 20807,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.2959855242253883,
+    "damaged_probability": 0.4666077812183771,
+    "flagged": true
+  },
+  {
+    "row": 20897,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.46960923283097117,
+    "damaged_probability": 0.4333620013340714,
+    "flagged": true
+  },
+  {
+    "row": 20925,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.503661465805786,
+    "damaged_probability": 0.5352617649263834,
+    "flagged": true
+  },
+  {
+    "row": 20975,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9060923634356147,
+    "damaged_probability": 0.42716094258214027,
+    "flagged": true
+  },
+  {
+    "row": 21235,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.40457384006522107,
+    "damaged_probability": 0.5018310701619362,
+    "flagged": true
+  },
+  {
+    "row": 21352,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9314216311417707,
+    "damaged_probability": 0.522768870657954,
+    "flagged": true
+  },
+  {
+    "row": 21466,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.49563216211802624,
+    "damaged_probability": 0.451116084426968,
+    "flagged": true
+  },
+  {
+    "row": 21571,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.900394109504457,
+    "damaged_probability": 0.4771572307065159,
+    "flagged": true
+  },
+  {
+    "row": 21591,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.039240996272246274,
+    "damaged_probability": 0.11253000556768938,
+    "flagged": true
+  },
+  {
+    "row": 21603,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6000612715419711,
+    "damaged_probability": 0.4664032071647926,
+    "flagged": true
+  },
+  {
+    "row": 21729,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.033575728515506754,
+    "damaged_probability": 0.14447881974881058,
+    "flagged": true
+  },
+  {
+    "row": 21888,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.13028559981684978,
+    "flagged": true
+  },
+  {
+    "row": 21952,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.005208333333333333,
+    "damaged_probability": 0.1181345853220853,
+    "flagged": true
+  },
+  {
+    "row": 22042,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8406815036919818,
+    "damaged_probability": 0.43785612263905344,
+    "flagged": true
+  },
+  {
+    "row": 22685,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5881071844485929,
+    "damaged_probability": 0.4102360781305309,
+    "flagged": true
+  },
+  {
+    "row": 22847,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.932606700021132,
+    "damaged_probability": 0.4017685739025619,
+    "flagged": true
+  },
+  {
+    "row": 22887,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8051019808974905,
+    "damaged_probability": 0.6104484417522416,
+    "flagged": true
+  },
+  {
+    "row": 22911,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6745853107946798,
+    "damaged_probability": 0.3196003445218848,
+    "flagged": true
+  },
+  {
+    "row": 23458,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5139062585281579,
+    "damaged_probability": 0.3604463684268166,
+    "flagged": true
+  },
+  {
+    "row": 23684,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.2794473737468899,
+    "damaged_probability": 0.20724994273514005,
+    "flagged": true
+  },
+  {
+    "row": 23727,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.01987847222222222,
+    "damaged_probability": 0.18038863624801124,
+    "flagged": true
+  },
+  {
+    "row": 23836,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.00598169191919192,
+    "damaged_probability": 0.1787732369074281,
+    "flagged": true
+  },
+  {
+    "row": 23845,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4128649398515068,
+    "damaged_probability": 0.35242079652266645,
+    "flagged": true
+  },
+  {
+    "row": 23999,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6064699950883219,
+    "damaged_probability": 0.29602782508713704,
+    "flagged": true
+  },
+  {
+    "row": 24062,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6702374261554261,
+    "damaged_probability": 0.3704884074343597,
+    "flagged": true
+  },
+  {
+    "row": 24267,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.3681307376746261,
+    "damaged_probability": 0.4094762014369657,
+    "flagged": true
+  },
+  {
+    "row": 24317,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.2166519208511396,
+    "damaged_probability": 0.37787931997633684,
+    "flagged": true
+  },
+  {
+    "row": 24493,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7418047029937779,
+    "damaged_probability": 0.47123533910217347,
+    "flagged": true
+  },
+  {
+    "row": 24565,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.028133267195767198,
+    "damaged_probability": 0.11633412883412882,
+    "flagged": true
+  },
+  {
+    "row": 25066,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4205353450689313,
+    "damaged_probability": 0.23090983090983086,
+    "flagged": true
+  },
+  {
+    "row": 25110,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6741328057375652,
+    "damaged_probability": 0.3711576718582537,
+    "flagged": true
+  },
+  {
+    "row": 25284,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8902087831709049,
+    "damaged_probability": 0.6465077099873164,
+    "flagged": true
+  },
+  {
+    "row": 25469,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.6238037172109945,
+    "damaged_probability": 0.40239282149692607,
+    "flagged": true
+  },
+  {
+    "row": 25710,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.43259654152955185,
+    "damaged_probability": 0.42339524010879453,
+    "flagged": true
+  },
+  {
+    "row": 25742,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8551725004056379,
+    "damaged_probability": 0.5513958346813091,
+    "flagged": true
+  },
+  {
+    "row": 25758,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9591241803087901,
+    "damaged_probability": 0.4242474665843849,
+    "flagged": true
+  },
+  {
+    "row": 25804,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6515247888476924,
+    "damaged_probability": 0.6281694046412781,
+    "flagged": true
+  },
+  {
+    "row": 25897,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5508193319552234,
+    "damaged_probability": 0.46875687528638027,
+    "flagged": true
+  },
+  {
+    "row": 25910,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.49237227010863355,
+    "damaged_probability": 0.38801929245348954,
+    "flagged": true
+  },
+  {
+    "row": 25979,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.12045199463080793,
+    "damaged_probability": 0.2652574271125749,
+    "flagged": true
+  },
+  {
+    "row": 26009,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.10426150641102298,
+    "damaged_probability": 0.3185294144852968,
+    "flagged": true
+  },
+  {
+    "row": 26036,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.1761773459383754,
+    "damaged_probability": 0.24978463808927565,
+    "flagged": true
+  },
+  {
+    "row": 26637,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.07848427614052615,
+    "flagged": true
+  },
+  {
+    "row": 26790,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0034053077464407514,
+    "damaged_probability": 0.09318340441387317,
+    "flagged": true
+  },
+  {
+    "row": 26858,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.04135095566329703,
+    "damaged_probability": 0.10009716937908429,
+    "flagged": true
+  },
+  {
+    "row": 26877,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.41959832955322646,
+    "damaged_probability": 0.38751959928975355,
+    "flagged": true
+  },
+  {
+    "row": 27028,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6053590299850166,
+    "damaged_probability": 0.3665897032326486,
+    "flagged": true
+  },
+  {
+    "row": 27033,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9603885705324172,
+    "damaged_probability": 0.5631216877725352,
+    "flagged": true
+  },
+  {
+    "row": 27696,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.022387315051614315,
+    "damaged_probability": 0.18700777669591048,
+    "flagged": true
+  },
+  {
+    "row": 27793,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.9406450216486842,
+    "damaged_probability": 0.5353799325036742,
+    "flagged": true
+  },
+  {
+    "row": 27799,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7230728663428693,
+    "damaged_probability": 0.47467160742508363,
+    "flagged": true
+  },
+  {
+    "row": 27916,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.02996667684167684,
+    "damaged_probability": 0.1677041997354497,
+    "flagged": true
+  },
+  {
+    "row": 27924,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.00390625,
+    "damaged_probability": 0.14769230973275094,
+    "flagged": true
+  },
+  {
+    "row": 28050,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.6360669228484915,
+    "damaged_probability": 0.33313188090094076,
+    "flagged": true
+  },
+  {
+    "row": 28156,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6620519592357269,
+    "damaged_probability": 0.6262649869735454,
+    "flagged": true
+  },
+  {
+    "row": 28491,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.05212504509379509,
+    "flagged": true
+  },
+  {
+    "row": 28500,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.07270998677248679,
+    "damaged_probability": 0.24296557030932028,
+    "flagged": true
+  },
+  {
+    "row": 28864,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6961726300748389,
+    "damaged_probability": 0.4554515618624941,
+    "flagged": true
+  },
+  {
+    "row": 29016,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.4827674947449583,
+    "damaged_probability": 0.31021055390839,
+    "flagged": true
+  },
+  {
+    "row": 29110,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.3903533443162093,
+    "damaged_probability": 0.3536363164072483,
+    "flagged": true
+  },
+  {
+    "row": 29345,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8831648177299015,
+    "damaged_probability": 0.6595070487747491,
+    "flagged": true
+  },
+  {
+    "row": 29440,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.4230534137085773,
+    "damaged_probability": 0.3491059907792336,
+    "flagged": true
+  },
+  {
+    "row": 29531,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.24959355806230807,
+    "damaged_probability": 0.3884342203276027,
+    "flagged": true
+  },
+  {
+    "row": 29928,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0438900740192625,
+    "damaged_probability": 0.2418254192617023,
+    "flagged": true
+  },
+  {
+    "row": 30001,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8368605337984633,
+    "damaged_probability": 0.6069357477775856,
+    "flagged": true
+  },
+  {
+    "row": 30026,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.45692474331402977,
+    "damaged_probability": 0.40827172848796894,
+    "flagged": true
+  },
+  {
+    "row": 30331,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.061240312205647573,
+    "damaged_probability": 0.13273281319529648,
+    "flagged": true
+  },
+  {
+    "row": 30465,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.4344319446590692,
+    "damaged_probability": 0.46301647416580544,
+    "flagged": true
+  },
+  {
+    "row": 30507,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.5174275704713399,
+    "damaged_probability": 0.37857227328534876,
+    "flagged": true
+  },
+  {
+    "row": 30588,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.2135850156173528,
+    "damaged_probability": 0.36307036639161544,
+    "flagged": true
+  },
+  {
+    "row": 30756,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.05748504967254967,
+    "flagged": true
+  },
+  {
+    "row": 30805,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.22544405485581953,
+    "damaged_probability": 0.1784215495152995,
+    "flagged": true
+  },
+  {
+    "row": 30851,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.1906122767434479,
+    "damaged_probability": 0.18011727146979736,
+    "flagged": true
+  },
+  {
+    "row": 30900,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.49327583879794346,
+    "damaged_probability": 0.3443418328258123,
+    "flagged": true
+  },
+  {
+    "row": 30926,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7647859030641695,
+    "damaged_probability": 0.5565986586908332,
+    "flagged": true
+  },
+  {
+    "row": 30938,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.5160270151293576,
+    "damaged_probability": 0.3139034265116208,
+    "flagged": true
+  },
+  {
+    "row": 31175,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.14264445045695043,
+    "damaged_probability": 0.28576646240142395,
+    "flagged": true
+  },
+  {
+    "row": 31303,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.51054188806829,
+    "damaged_probability": 0.41787152867710087,
+    "flagged": true
+  },
+  {
+    "row": 31381,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.18951379657765774,
+    "damaged_probability": 0.28813025863383834,
+    "flagged": true
+  },
+  {
+    "row": 31424,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7021744559445476,
+    "damaged_probability": 0.36695754658003826,
+    "flagged": true
+  },
+  {
+    "row": 31459,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.8000039710137982,
+    "damaged_probability": 0.4438386372512977,
+    "flagged": true
+  },
+  {
+    "row": 31718,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.7541216413346751,
+    "damaged_probability": 0.4738951464949843,
+    "flagged": true
+  },
+  {
+    "row": 31999,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.03566456691456692,
+    "damaged_probability": 0.19597011784511778,
+    "flagged": true
+  },
+  {
+    "row": 32260,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.44552011392478635,
+    "damaged_probability": 0.23981939834417657,
+    "flagged": true
+  },
+  {
+    "row": 32289,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.06936458742335512,
+    "damaged_probability": 0.22860122549688325,
+    "flagged": true
+  },
+  {
+    "row": 32308,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.4117240216402284,
+    "damaged_probability": 0.2945673369005109,
+    "flagged": true
+  },
+  {
+    "row": 32372,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.6995370090336134,
+    "damaged_probability": 0.49340815623840056,
+    "flagged": true
+  },
+  {
+    "row": 32538,
+    "kind": "pen",
+    "label": 0,
+    "clean_probability": 0.46999615092344893,
+    "damaged_probability": 0.4767770924753217,
+    "flagged": true
+  },
+  {
+    "row": 32753,
+    "kind": "pen",
+    "label": 1,
+    "clean_probability": 0.985604410759569,
+    "damaged_probability": 0.7120950223513685,
+    "flagged": true
+  },
+  {
+    "row": 58,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 135,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.5623479870614568,
+    "damaged_probability": 0.0031249999999999997,
+    "flagged": true
+  },
+  {
+    "row": 418,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.014938560216355522,
+    "damaged_probability": 0.0026455026455026454,
+    "flagged": true
+  },
+  {
+    "row": 420,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.08379581049174634,
+    "damaged_probability": 0.03050181878306878,
+    "flagged": true
+  },
+  {
+    "row": 772,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.007589285714285714,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 858,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.011979166666666666,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 991,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 1071,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5803075875146905,
+    "damaged_probability": 0.002706290849673203,
+    "flagged": true
+  },
+  {
+    "row": 1108,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5368188385985871,
+    "damaged_probability": 0.010614035087719298,
+    "flagged": true
+  },
+  {
+    "row": 1130,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7366078931651737,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 1226,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9768581194810588,
+    "damaged_probability": 0.023892773892773892,
+    "flagged": true
+  },
+  {
+    "row": 1271,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.06335225946439181,
+    "damaged_probability": 0.05995558261183262,
+    "flagged": true
+  },
+  {
+    "row": 1917,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9252078968246873,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 1951,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.07310088210615663,
+    "damaged_probability": 0.007536094509778722,
+    "flagged": true
+  },
+  {
+    "row": 2215,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.06449970556505896,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 2273,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8313184051580099,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 2536,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9692704034416054,
+    "damaged_probability": 0.02152777777777778,
+    "flagged": true
+  },
+  {
+    "row": 2539,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.11424099627224628,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 2554,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.16495279575258387,
+    "damaged_probability": 0.023606977513227514,
+    "flagged": true
+  },
+  {
+    "row": 2595,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.15539408484079062,
+    "damaged_probability": 0.0022893772893772895,
+    "flagged": true
+  },
+  {
+    "row": 2747,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.2469736369044612,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 2814,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.20157548588564278,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 2982,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.15383560259790305,
+    "damaged_probability": 0.029249338624338622,
+    "flagged": true
+  },
+  {
+    "row": 3035,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5388131129506061,
+    "damaged_probability": 0.0013020833333333333,
+    "flagged": true
+  },
+  {
+    "row": 3050,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7745121706369712,
+    "damaged_probability": 0.0020833333333333333,
+    "flagged": true
+  },
+  {
+    "row": 3203,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.25112714377506284,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 3336,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.002976190476190476,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 3437,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.015537558506308507,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 3446,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03021547318422318,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 3840,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.849837062962643,
+    "damaged_probability": 0.07235575112631033,
+    "flagged": true
+  },
+  {
+    "row": 3861,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.04552982325103815,
+    "damaged_probability": 0.0636441935866278,
+    "flagged": true
+  },
+  {
+    "row": 4201,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.14642940646766875,
+    "damaged_probability": 0.054087376743626736,
+    "flagged": true
+  },
+  {
+    "row": 4369,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.48258784896878276,
+    "damaged_probability": 0.008641098484848486,
+    "flagged": true
+  },
+  {
+    "row": 4408,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8558435084277368,
+    "damaged_probability": 0.0020833333333333333,
+    "flagged": true
+  },
+  {
+    "row": 4750,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03187616950386506,
+    "damaged_probability": 0.022780257936507935,
+    "flagged": true
+  },
+  {
+    "row": 4756,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.3609104779080548,
+    "damaged_probability": 0.004728835978835979,
+    "flagged": true
+  },
+  {
+    "row": 5055,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.10882394600225485,
+    "damaged_probability": 0.014583333333333332,
+    "flagged": true
+  },
+  {
+    "row": 5117,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9678998465426393,
+    "damaged_probability": 0.03329483016983017,
+    "flagged": true
+  },
+  {
+    "row": 5235,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 5380,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.8633375445271563,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 5389,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4303266858413915,
+    "damaged_probability": 0.01582236842105263,
+    "flagged": true
+  },
+  {
+    "row": 5638,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.4299485155252399,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 5701,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5199395727336025,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 5768,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.46742185095915567,
+    "damaged_probability": 0.0033386752136752135,
+    "flagged": true
+  },
+  {
+    "row": 5817,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.21278296356421356,
+    "damaged_probability": 0.001736111111111111,
+    "flagged": true
+  },
+  {
+    "row": 6155,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8424751388847221,
+    "damaged_probability": 0.053266293891293885,
+    "flagged": true
+  },
+  {
+    "row": 6159,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8795267696970809,
+    "damaged_probability": 0.005208333333333333,
+    "flagged": true
+  },
+  {
+    "row": 6211,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8449588001960717,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 6363,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9936670881327538,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 6734,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5348846506093753,
+    "damaged_probability": 0.007316468253968253,
+    "flagged": true
+  },
+  {
+    "row": 6821,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6046745274414752,
+    "damaged_probability": 0.009815705128205128,
+    "flagged": true
+  },
+  {
+    "row": 7367,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.008357287551226408,
+    "damaged_probability": 0.009824346405228758,
+    "flagged": true
+  },
+  {
+    "row": 7429,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8291836161353161,
+    "damaged_probability": 0.01087295227920228,
+    "flagged": true
+  },
+  {
+    "row": 7588,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.46717127600306346,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 7630,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6552392298072603,
+    "damaged_probability": 0.021227904040404037,
+    "flagged": true
+  },
+  {
+    "row": 8003,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.054829574360824355,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 8338,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.15007700233138865,
+    "damaged_probability": 0.007282355193539404,
+    "flagged": true
+  },
+  {
+    "row": 8364,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.590638357772193,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 8526,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03736449209650107,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 8815,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7101656741454199,
+    "damaged_probability": 0.01155181623931624,
+    "flagged": true
+  },
+  {
+    "row": 8831,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.27984839361503705,
+    "damaged_probability": 0.0031249999999999997,
+    "flagged": true
+  },
+  {
+    "row": 9045,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.21114513229082973,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 9167,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.6426635989171233,
+    "damaged_probability": 0.004419191919191919,
+    "flagged": true
+  },
+  {
+    "row": 9191,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.378660618773539,
+    "damaged_probability": 0.04869754088504088,
+    "flagged": true
+  },
+  {
+    "row": 9201,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 9306,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03132362395001854,
+    "damaged_probability": 0.01609327806696228,
+    "flagged": true
+  },
+  {
+    "row": 9482,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.23670802337060357,
+    "damaged_probability": 0.006944444444444444,
+    "flagged": true
+  },
+  {
+    "row": 9704,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 9726,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03898847101972102,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 9741,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 9771,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.07721443373313039,
+    "damaged_probability": 0.016098484848484848,
+    "flagged": true
+  },
+  {
+    "row": 9908,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.46251008538549404,
+    "damaged_probability": 0.0013020833333333333,
+    "flagged": true
+  },
+  {
+    "row": 9918,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 10229,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.60772391481757,
+    "damaged_probability": 0.008947649572649572,
+    "flagged": true
+  },
+  {
+    "row": 10260,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.2633031173064599,
+    "damaged_probability": 0.009995039682539682,
+    "flagged": true
+  },
+  {
+    "row": 10276,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9026134913689129,
+    "damaged_probability": 0.02476438492063492,
+    "flagged": true
+  },
+  {
+    "row": 10407,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.868065138683033,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 10439,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.000744047619047619,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 10518,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.791794224478588,
+    "damaged_probability": 0.009052579365079366,
+    "flagged": true
+  },
+  {
+    "row": 10635,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.49964759203220394,
+    "damaged_probability": 0.09199436802232856,
+    "flagged": true
+  },
+  {
+    "row": 10657,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9456328077990763,
+    "damaged_probability": 0.031123737373737373,
+    "flagged": true
+  },
+  {
+    "row": 10933,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.2412854389057234,
+    "damaged_probability": 0.005208333333333333,
+    "flagged": true
+  },
+  {
+    "row": 10954,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6833477607899799,
+    "damaged_probability": 0.0026041666666666665,
+    "flagged": true
+  },
+  {
+    "row": 11027,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.10727779893180923,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11069,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11244,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.5449397837038567,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11519,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8332792101867774,
+    "damaged_probability": 0.02864808802308802,
+    "flagged": true
+  },
+  {
+    "row": 11542,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9140008759898336,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11631,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11695,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03863694574755384,
+    "damaged_probability": 0.024831649831649833,
+    "flagged": true
+  },
+  {
+    "row": 11701,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.021576265351079024,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11768,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.1422703164890665,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 11814,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.4899903065456386,
+    "damaged_probability": 0.008513621794871794,
+    "flagged": true
+  },
+  {
+    "row": 11884,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.919413129962554,
+    "damaged_probability": 0.026426091269841273,
+    "flagged": true
+  },
+  {
+    "row": 11891,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9793620749777062,
+    "damaged_probability": 0.012549603174603173,
+    "flagged": true
+  },
+  {
+    "row": 12048,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.12247496322774414,
+    "damaged_probability": 0.003587962962962963,
+    "flagged": true
+  },
+  {
+    "row": 12137,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9618202724994597,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 12408,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.001488095238095238,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 13180,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6154771734001498,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 13309,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9166232605798478,
+    "damaged_probability": 0.0018382352941176473,
+    "flagged": true
+  },
+  {
+    "row": 13425,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.005821078431372549,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 13582,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5536943527691432,
+    "damaged_probability": 0.01189236111111111,
+    "flagged": true
+  },
+  {
+    "row": 13603,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9652616900203821,
+    "damaged_probability": 0.02173445767195767,
+    "flagged": true
+  },
+  {
+    "row": 13669,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.46631701072499404,
+    "damaged_probability": 0.005657679738562092,
+    "flagged": true
+  },
+  {
+    "row": 13705,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.42965809220108864,
+    "damaged_probability": 0.008947649572649572,
+    "flagged": true
+  },
+  {
+    "row": 13798,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.677203733467692,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 13821,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.25689996440857576,
+    "damaged_probability": 0.027223875661375657,
+    "flagged": true
+  },
+  {
+    "row": 13947,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.1176763349965377,
+    "damaged_probability": 0.019573713323713323,
+    "flagged": true
+  },
+  {
+    "row": 14028,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14102,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4678121585184957,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14178,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.5958762611057552,
+    "damaged_probability": 0.021383101851851855,
+    "flagged": true
+  },
+  {
+    "row": 14487,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5691052737224811,
+    "damaged_probability": 0.001488095238095238,
+    "flagged": true
+  },
+  {
+    "row": 14578,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5120092576641867,
+    "damaged_probability": 0.0026455026455026454,
+    "flagged": true
+  },
+  {
+    "row": 14592,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.004728835978835979,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14701,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14881,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.10699838857249848,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 14975,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8975442522195397,
+    "damaged_probability": 0.11073685238981291,
+    "flagged": true
+  },
+  {
+    "row": 15090,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.1262300836212486,
+    "damaged_probability": 0.014221643518518517,
+    "flagged": true
+  },
+  {
+    "row": 15167,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8985284214540634,
+    "damaged_probability": 0.055849792568542556,
+    "flagged": true
+  },
+  {
+    "row": 15194,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.24162831677035337,
+    "damaged_probability": 0.004034391534391534,
+    "flagged": true
+  },
+  {
+    "row": 15233,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.19325553926363315,
+    "damaged_probability": 0.0032880277617119724,
+    "flagged": true
+  },
+  {
+    "row": 15331,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 15414,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 15432,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.05673513407888408,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 15514,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.008101851851851851,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 15552,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.05308785623894418,
+    "damaged_probability": 0.03222064393939394,
+    "flagged": true
+  },
+  {
+    "row": 15926,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.08546453546453547,
+    "damaged_probability": 0.0057705026455026455,
+    "flagged": true
+  },
+  {
+    "row": 16064,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.012208146980300538,
+    "damaged_probability": 0.0022893772893772895,
+    "flagged": true
+  },
+  {
+    "row": 16077,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.8206159616698425,
+    "damaged_probability": 0.060224266474266465,
+    "flagged": true
+  },
+  {
+    "row": 16141,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 16317,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9783178408242081,
+    "damaged_probability": 0.009895833333333333,
+    "flagged": true
+  },
+  {
+    "row": 16764,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4253409728378399,
+    "damaged_probability": 0.017885987672171883,
+    "flagged": true
+  },
+  {
+    "row": 16902,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0214823082010582,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 16949,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7212372738247578,
+    "damaged_probability": 0.03159722222222222,
+    "flagged": true
+  },
+  {
+    "row": 17007,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6617127264937778,
+    "damaged_probability": 0.007626488095238096,
+    "flagged": true
+  },
+  {
+    "row": 17117,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9045268593033451,
+    "damaged_probability": 0.01636679292929293,
+    "flagged": true
+  },
+  {
+    "row": 17225,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.024137780112044815,
+    "damaged_probability": 0.01392195767195767,
+    "flagged": true
+  },
+  {
+    "row": 17607,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.4491168987262737,
+    "damaged_probability": 0.010416666666666666,
+    "flagged": true
+  },
+  {
+    "row": 17859,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.5312987572454092,
+    "damaged_probability": 0.014487321127946129,
+    "flagged": true
+  },
+  {
+    "row": 17887,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.49556295861902,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 18167,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8153760782472653,
+    "damaged_probability": 0.0018382352941176473,
+    "flagged": true
+  },
+  {
+    "row": 18178,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.552474932085085,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 18358,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.046827332375424274,
+    "damaged_probability": 0.026110434704184702,
+    "flagged": true
+  },
+  {
+    "row": 18423,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9030607362745195,
+    "damaged_probability": 0.0026041666666666665,
+    "flagged": true
+  },
+  {
+    "row": 18437,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8806933326497443,
+    "damaged_probability": 0.006944444444444444,
+    "flagged": true
+  },
+  {
+    "row": 18516,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.5507792506441648,
+    "damaged_probability": 0.005150462962962963,
+    "flagged": true
+  },
+  {
+    "row": 18713,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.052084408630319684,
+    "damaged_probability": 0.001736111111111111,
+    "flagged": true
+  },
+  {
+    "row": 18830,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5721141039719161,
+    "damaged_probability": 0.006944444444444444,
+    "flagged": true
+  },
+  {
+    "row": 18912,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19067,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.22305773860926636,
+    "damaged_probability": 0.040729467291967296,
+    "flagged": true
+  },
+  {
+    "row": 19347,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7313116205847718,
+    "damaged_probability": 0.0008680555555555555,
+    "flagged": true
+  },
+  {
+    "row": 19373,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.005285493827160494,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19391,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5093067854174561,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19604,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.11699620745267934,
+    "damaged_probability": 0.0035714285714285713,
+    "flagged": true
+  },
+  {
+    "row": 19657,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.467160130637686,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19659,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8734334459333338,
+    "damaged_probability": 0.09748604070150123,
+    "flagged": true
+  },
+  {
+    "row": 19660,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.022325937950937947,
+    "damaged_probability": 0.04576005591630592,
+    "flagged": true
+  },
+  {
+    "row": 19751,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4062051082284517,
+    "damaged_probability": 0.013383374183006535,
+    "flagged": true
+  },
+  {
+    "row": 19766,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.005544354838709677,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19798,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.6293657916681789,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 19858,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.2125416597574841,
+    "damaged_probability": 0.0026455026455026454,
+    "flagged": true
+  },
+  {
+    "row": 20138,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6443122227461577,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 20269,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0076167424646332365,
+    "damaged_probability": 0.05668002060682981,
+    "flagged": true
+  },
+  {
+    "row": 20282,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.12355597896044056,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 20433,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0020833333333333333,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 20565,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8603710224743973,
+    "damaged_probability": 0.07043876262626263,
+    "flagged": true
+  },
+  {
+    "row": 20689,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.2041507440395395,
+    "damaged_probability": 0.0026041666666666665,
+    "flagged": true
+  },
+  {
+    "row": 20807,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.2959855242253883,
+    "damaged_probability": 0.0011574074074074073,
+    "flagged": true
+  },
+  {
+    "row": 20897,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.46960923283097117,
+    "damaged_probability": 0.051434358465608475,
+    "flagged": true
+  },
+  {
+    "row": 20925,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.503661465805786,
+    "damaged_probability": 0.006810897435897436,
+    "flagged": true
+  },
+  {
+    "row": 20975,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9060923634356147,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 21235,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.40457384006522107,
+    "damaged_probability": 0.00449608262108262,
+    "flagged": true
+  },
+  {
+    "row": 21352,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9314216311417707,
+    "damaged_probability": 0.005150462962962963,
+    "flagged": true
+  },
+  {
+    "row": 21466,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.49563216211802624,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 21571,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.900394109504457,
+    "damaged_probability": 0.0026041666666666665,
+    "flagged": true
+  },
+  {
+    "row": 21591,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.039240996272246274,
+    "damaged_probability": 0.012706043956043958,
+    "flagged": true
+  },
+  {
+    "row": 21603,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6000612715419711,
+    "damaged_probability": 0.0029431216931216932,
+    "flagged": true
+  },
+  {
+    "row": 21729,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.033575728515506754,
+    "damaged_probability": 0.0140625,
+    "flagged": true
+  },
+  {
+    "row": 21888,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 21952,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.005208333333333333,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 22042,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8406815036919818,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 22685,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5881071844485929,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 22847,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.932606700021132,
+    "damaged_probability": 0.041253885003885,
+    "flagged": true
+  },
+  {
+    "row": 22887,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8051019808974905,
+    "damaged_probability": 0.040552849927849924,
+    "flagged": true
+  },
+  {
+    "row": 22911,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6745853107946798,
+    "damaged_probability": 0.05416666666666667,
+    "flagged": true
+  },
+  {
+    "row": 23458,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5139062585281579,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 23684,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.2794473737468899,
+    "damaged_probability": 0.007211538461538461,
+    "flagged": true
+  },
+  {
+    "row": 23727,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.01987847222222222,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 23836,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.00598169191919192,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 23845,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4128649398515068,
+    "damaged_probability": 0.0026041666666666665,
+    "flagged": true
+  },
+  {
+    "row": 23999,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6064699950883219,
+    "damaged_probability": 0.007211538461538461,
+    "flagged": true
+  },
+  {
+    "row": 24062,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6702374261554261,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 24267,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.3681307376746261,
+    "damaged_probability": 0.03706597222222222,
+    "flagged": true
+  },
+  {
+    "row": 24317,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.2166519208511396,
+    "damaged_probability": 0.03523741883116883,
+    "flagged": true
+  },
+  {
+    "row": 24493,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7418047029937779,
+    "damaged_probability": 0.057947419048436484,
+    "flagged": true
+  },
+  {
+    "row": 24565,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.028133267195767198,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 25066,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4205353450689313,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 25110,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6741328057375652,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 25284,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8902087831709049,
+    "damaged_probability": 0.03906475468975469,
+    "flagged": true
+  },
+  {
+    "row": 25469,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.6238037172109945,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 25710,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.43259654152955185,
+    "damaged_probability": 0.010019841269841269,
+    "flagged": true
+  },
+  {
+    "row": 25742,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8551725004056379,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 25758,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9591241803087901,
+    "damaged_probability": 0.05940037971287971,
+    "flagged": true
+  },
+  {
+    "row": 25804,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6515247888476924,
+    "damaged_probability": 0.0033386752136752135,
+    "flagged": true
+  },
+  {
+    "row": 25897,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5508193319552234,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 25910,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.49237227010863355,
+    "damaged_probability": 0.029571759259259256,
+    "flagged": true
+  },
+  {
+    "row": 25979,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.12045199463080793,
+    "damaged_probability": 0.003472222222222222,
+    "flagged": true
+  },
+  {
+    "row": 26009,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.10426150641102298,
+    "damaged_probability": 0.02415183876580936,
+    "flagged": true
+  },
+  {
+    "row": 26036,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.1761773459383754,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 26637,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 26790,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0034053077464407514,
+    "damaged_probability": 0.0042824074074074075,
+    "flagged": true
+  },
+  {
+    "row": 26858,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.04135095566329703,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 26877,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.41959832955322646,
+    "damaged_probability": 0.01974694865319865,
+    "flagged": true
+  },
+  {
+    "row": 27028,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6053590299850166,
+    "damaged_probability": 0.0026041666666666665,
+    "flagged": true
+  },
+  {
+    "row": 27033,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9603885705324172,
+    "damaged_probability": 0.0046875,
+    "flagged": true
+  },
+  {
+    "row": 27696,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.022387315051614315,
+    "damaged_probability": 0.0655052520883113,
+    "flagged": true
+  },
+  {
+    "row": 27793,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.9406450216486842,
+    "damaged_probability": 0.005039231601731601,
+    "flagged": true
+  },
+  {
+    "row": 27799,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7230728663428693,
+    "damaged_probability": 0.03117559523809524,
+    "flagged": true
+  },
+  {
+    "row": 27916,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.02996667684167684,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 27924,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.00390625,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 28050,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.6360669228484915,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 28156,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6620519592357269,
+    "damaged_probability": 0.0033386752136752135,
+    "flagged": true
+  },
+  {
+    "row": 28491,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.007211538461538461,
+    "flagged": true
+  },
+  {
+    "row": 28500,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.07270998677248679,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 28864,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6961726300748389,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 29016,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.4827674947449583,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 29110,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.3903533443162093,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 29345,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8831648177299015,
+    "damaged_probability": 0.09835633116883118,
+    "flagged": true
+  },
+  {
+    "row": 29440,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.4230534137085773,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 29531,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.24959355806230807,
+    "damaged_probability": 0.02205762987012987,
+    "flagged": true
+  },
+  {
+    "row": 29928,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0438900740192625,
+    "damaged_probability": 0.017398313492063493,
+    "flagged": true
+  },
+  {
+    "row": 30001,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8368605337984633,
+    "damaged_probability": 0.08997790404040402,
+    "flagged": true
+  },
+  {
+    "row": 30026,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.45692474331402977,
+    "damaged_probability": 0.03417908668635413,
+    "flagged": true
+  },
+  {
+    "row": 30331,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.061240312205647573,
+    "damaged_probability": 0.00797119547119547,
+    "flagged": true
+  },
+  {
+    "row": 30465,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.4344319446590692,
+    "damaged_probability": 0.0011574074074074073,
+    "flagged": true
+  },
+  {
+    "row": 30507,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.5174275704713399,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 30588,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.2135850156173528,
+    "damaged_probability": 0.001488095238095238,
+    "flagged": true
+  },
+  {
+    "row": 30756,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.0,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 30805,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.22544405485581953,
+    "damaged_probability": 0.03716329966329966,
+    "flagged": true
+  },
+  {
+    "row": 30851,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.1906122767434479,
+    "damaged_probability": 0.0013020833333333333,
+    "flagged": true
+  },
+  {
+    "row": 30900,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.49327583879794346,
+    "damaged_probability": 0.12543946748305299,
+    "flagged": true
+  },
+  {
+    "row": 30926,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7647859030641695,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 30938,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.5160270151293576,
+    "damaged_probability": 0.014322916666666666,
+    "flagged": true
+  },
+  {
+    "row": 31175,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.14264445045695043,
+    "damaged_probability": 0.03633178164428164,
+    "flagged": true
+  },
+  {
+    "row": 31303,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.51054188806829,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 31381,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.18951379657765774,
+    "damaged_probability": 0.00318287037037037,
+    "flagged": true
+  },
+  {
+    "row": 31424,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7021744559445476,
+    "damaged_probability": 0.018882230764498208,
+    "flagged": true
+  },
+  {
+    "row": 31459,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.8000039710137982,
+    "damaged_probability": 0.003645833333333333,
+    "flagged": true
+  },
+  {
+    "row": 31718,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.7541216413346751,
+    "damaged_probability": 0.0026455026455026454,
+    "flagged": true
+  },
+  {
+    "row": 31999,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.03566456691456692,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 32260,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.44552011392478635,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 32289,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.06936458742335512,
+    "damaged_probability": 0.055028378144186964,
+    "flagged": true
+  },
+  {
+    "row": 32308,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.4117240216402284,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 32372,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.6995370090336134,
+    "damaged_probability": 0.00392156862745098,
+    "flagged": true
+  },
+  {
+    "row": 32538,
+    "kind": "background",
+    "label": 0,
+    "clean_probability": 0.46999615092344893,
+    "damaged_probability": 0.0,
+    "flagged": true
+  },
+  {
+    "row": 32753,
+    "kind": "background",
+    "label": 1,
+    "clean_probability": 0.985604410759569,
+    "damaged_probability": 0.010813492063492062,
+    "flagged": true
+  }
+]

@@ -1,0 +1,21 @@
+name: Test and replay report
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.12.19"
+      - run: uv sync --frozen --python 3.12 --extra dev
+      - run: uv run ruff check .
+      - run: uv run ruff format --check .
+      - run: uv run pytest -q
+      - name: Replay public-data metrics and every confidence interval
+        run: uv run tissue-patch-eval verify --report reports
