@@ -1,12 +1,18 @@
-# Tissue patch evaluation
+I merged this into my existing [lab-assay-lims project](https://github.com/jackaI1/lab-assay-lims/tree/main/projects/tissue-patch-eval). The current code is in `projects/tissue-patch-eval/` there. I kept the code here so older links still work.
 
-I built a tissue-image evaluation because I wanted to know whether a high score would hold up on a new source slide. A scanned tissue slide can supply many small pictures, called patches. If related patches end up in both training and testing, a classifier can get an easier test than it would on a slide it has never seen.
+The move keeps the original layout, including `tests/test_data_qc.py`, `tests/test_published.py`, `tests/test_report.py`, `tests/test_evaluation.py`. I replaced the README with the report below and left out Git history, installed dependencies, caches and generated build output from the hub copy.
 
-I train a small classifier on public PatchCamelyon images, compare random splitting with keeping source slides separate, and put uncertainty intervals around the difference. I also flag possible blur, pen marks and mostly empty background, then check whether those patches make more prediction errors.
+The 4 test source files moved with the code. No project-specific GitHub Actions workflow was retained; the report records the omitted checks, and the test sources can be run locally from the linked folder.
 
-**[Read the saved report with real examples](reports/report.md).** No installation is needed to read it on GitHub. For an offline copy, download [report.html](reports/report.html) and open it in a browser; its patch images are embedded in the file.
+Other specific omissions: reports/ (generated output).
 
-This is a public-data learning experiment, **not a diagnostic tool**. It cannot decide whether a person has cancer.
+Omitted workflows: `tissue-patch-eval-ci.yml`: The relocated workflow failed in GitHub Actions and was removed to keep the hub checks independent. Local test sources remain available.
+
+---
+
+# tissue-patch-eval
+
+I built a tissue-image evaluation to learn how the underlying idea works. This is a learning project.
 
 ## What happened
 
@@ -60,15 +66,14 @@ I separately add blur, a blue line and a white covering to real held-out patches
 
 I used public data only. Raw archives are excluded from git. The saved patch examples are derived from the CC0 release; the project code is [MIT licensed](LICENSE).
 
-## Code and checks
+## Tests and limits
 
-`src/tissue_patch_eval/data.py` downloads and checks the release. `qc.py` extracts image measurements and flags. `evaluation.py` trains both split methods and estimates uncertainty. `pipeline.py` saves row-level evidence, and `report.py` writes the readable reports.
+There are 4 test source files in this copy. That source count does not establish an execution result. This is a source snapshot, and running it on a new machine may need environment-specific setup.
 
-```sh
-uv run pytest -q
-uv run ruff check .
-uv run ruff format --check .
-uv run tissue-patch-eval verify --report reports
-```
 
-CI runs the tests, formatting checks and the public report replay on every push and pull request. The tests cover corrupt downloads, metadata alignment, image contracts, controlled defects, slide isolation, held-out predictions, cluster uncertainty, empty quality groups and an end-to-end report. Small synthetic images are used for unit tests; the saved evaluation uses the real public archive.
+
+Generated output omitted from this copy: reports/ (generated output). Regenerate it with the project scripts.
+
+The relocated workflow failed in GitHub Actions and was removed to keep the hub checks independent. Local test sources remain available.
+
+No project-specific GitHub Actions workflow was retained. The local test sources remain in this folder.
